@@ -1,0 +1,36 @@
+0
+
+2
+What is this place?#I have to find a way out.
+0
+
+1
+This room must be a planetarium room. The owner has a pretty good taste.
+1,2
+*cough* *cough* I need to clean this up first.#Some kind of puzzles, huh.
+4
+A recipe to make 'Awaken'.#If I wake the dragon by doing this dish, it will maybe help me get out of this place!#Ingredients 1. burnt petals 2. goose feather 3. gold bar#Where can I find these ingredients?
+1,2
+It seems like I have to make all flowers bloom before collecting them... but how?#Did the recipe say the flowers need to be charred?
+0
+
+0
+
+0
+
+1,9
+It is too dark to read.#king : "Hey, you finally come."#you : "Huh? Is the book talking to me?"#king : "If you help me find the villains among these heroes, I will give you what you want."#you : Okay…#king : "There are 3 bad guys here but I could not find them".#king : "Remember this."#king : "warriors speak only truths, mages weave naught but lies."#king : "And priests—ah, priests may utter either, for their words dance between light and shadow."
+1,2
+What a strange doll.#Oh! The feather!?
+0
+
+0
+
+0
+
+1
+Another puzzle? But some parts seem to be missing.
+1
+The dragon finally woke up and helped you find your way back home.
+0
+ 

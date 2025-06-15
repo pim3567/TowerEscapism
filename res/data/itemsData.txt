@@ -1,0 +1,2 @@
+whisk,images/item/whisk.png,0.3,0,0.7,0.7,3
+candle,images/item/candle.png,0.2,0,0.43,0.65,6

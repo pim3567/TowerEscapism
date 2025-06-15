@@ -1,0 +1,34 @@
+0,home, ,1
+0.08,0.5,0,0,1
+1,room1,images/background/room1.jpg,6
+0.07,0.4,0.40,0.8,3
+0.2,0.3,0.28,0.43,6
+0.13,0.2,0.29,0.29,8
+0.08,0.1,0.59,0.31,7
+0.23,0.14,0.73,0.48,5
+0.18,0.6,0.2,0.01,4
+2,room2,images/background/room2.jpg,4
+0.07,0.3,0.4,0.87,1
+0.23,0.23,0.53,0.049,10
+0.23,0.26,0.3,0.62,9
+0.2,0.34,0.32,0.38,11
+3,room3,images/background/room3.jpg,5
+0.065,0.45,0.4,0.03,1
+0.2,0.3,0.25,0.7,12
+0.17,0.2,0.4,0.5,13
+0.25,0.2,0.26,0.14,14
+0.13,0.16,0.6,0.13,15
+4,bookGame,images/background/bookGameBg.jpg,0
+5,craftTable,images/background/craftTableV1.jpg,0
+6,flowerGame,images/background/flowerGameBg.jpg,0
+7,fireplace,images/background/fireplace.jpg,0
+8,infoBoard,images/background/infoBoard.jpg,0
+9,slidingPuzzle,images/background/slidingPuzzle.jpg,0
+10,desk,images/background/whoGameNoLight.jpg,0
+11,doll,images/background/doll.jpg,0
+12,telescope,images/background/backGalaxy.jpg,0
+13,blackBoard,images/background/blackBoard.jpg,0
+14,correctStarGame,images/background/planetPuzzleV1.jpg,0
+15,safety,images/background/safeV1.jpg,0
+16,endingStory, ,0
+17,endingScene, ,0
